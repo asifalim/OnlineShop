@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A687BDF7-645B-4928-B427-CC7B8F65BAC9}|OnlineShop\\OnlineShop.csproj|c:\\users\\hp\\documents\\project\\onlineshop\\onlineshop\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A687BDF7-645B-4928-B427-CC7B8F65BAC9}|OnlineShop\\OnlineShop.csproj|solutionrelative:onlineshop\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A687BDF7-645B-4928-B427-CC7B8F65BAC9}|OnlineShop\\OnlineShop.csproj|c:\\users\\hp\\documents\\project\\onlineshop\\onlineshop\\areas\\admin\\controllers\\producttypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A687BDF7-645B-4928-B427-CC7B8F65BAC9}|OnlineShop\\OnlineShop.csproj|solutionrelative:onlineshop\\areas\\admin\\controllers\\producttypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A687BDF7-645B-4928-B427-CC7B8F65BAC9}|OnlineShop\\OnlineShop.csproj|c:\\users\\hp\\documents\\project\\onlineshop\\onlineshop\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A687BDF7-645B-4928-B427-CC7B8F65BAC9}|OnlineShop\\OnlineShop.csproj|solutionrelative:onlineshop\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A687BDF7-645B-4928-B427-CC7B8F65BAC9}|OnlineShop\\OnlineShop.csproj|c:\\users\\hp\\documents\\project\\onlineshop\\onlineshop\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A687BDF7-645B-4928-B427-CC7B8F65BAC9}|OnlineShop\\OnlineShop.csproj|solutionrelative:onlineshop\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 198,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "OnlineShop\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "OnlineShop\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA1wBcAAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T05:17:42.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductTypesController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\Areas\\Admin\\Controllers\\ProductTypesController.cs",
+              "RelativeDocumentMoniker": "OnlineShop\\Areas\\Admin\\Controllers\\ProductTypesController.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\Areas\\Admin\\Controllers\\ProductTypesController.cs",
+              "RelativeToolTip": "OnlineShop\\Areas\\Admin\\Controllers\\ProductTypesController.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAmwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T05:16:59.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "OnlineShop\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "OnlineShop\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAwwGQAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T05:16:14.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "OnlineShop\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "OnlineShop\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T19:50:30.314Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 90,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,413 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\OnlineShop.bundle.scp.css",
+      "PackagePath": "staticwebassets\\OnlineShop.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\wwwroot\\Images\\100days badge.png",
+      "PackagePath": "staticwebassets\\Images\\100days badge.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\wwwroot\\Images\\130A5315.JPG",
+      "PackagePath": "staticwebassets\\Images\\130A5315.JPG"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\wwwroot\\Images\\20170327_154317.jpg",
+      "PackagePath": "staticwebassets\\Images\\20170327_154317.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\wwwroot\\Images\\2018-01-20-12-50-34-090.jpg",
+      "PackagePath": "staticwebassets\\Images\\2018-01-20-12-50-34-090.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\wwwroot\\Images\\20191018_173916.jpg",
+      "PackagePath": "staticwebassets\\Images\\20191018_173916.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\wwwroot\\Images\\25122011029.jpg",
+      "PackagePath": "staticwebassets\\Images\\25122011029.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\wwwroot\\Images\\410316797_765223602308188_1471892453967019675_n.jpg",
+      "PackagePath": "staticwebassets\\Images\\410316797_765223602308188_1471892453967019675_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\wwwroot\\Images\\80.jpg",
+      "PackagePath": "staticwebassets\\Images\\80.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\wwwroot\\Images\\Calculator.jpg",
+      "PackagePath": "staticwebassets\\Images\\Calculator.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\wwwroot\\Images\\Ear_Phone.jpg",
+      "PackagePath": "staticwebassets\\Images\\Ear_Phone.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\wwwroot\\Images\\Employees2.drawio.png",
+      "PackagePath": "staticwebassets\\Images\\Employees2.drawio.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\wwwroot\\Images\\FontAwesome-Link-icon.png",
+      "PackagePath": "staticwebassets\\Images\\FontAwesome-Link-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\wwwroot\\Images\\Galaxy-Watch3-des-7.jpg",
+      "PackagePath": "staticwebassets\\Images\\Galaxy-Watch3-des-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\wwwroot\\Images\\GitHubDesktop.exe",
+      "PackagePath": "staticwebassets\\Images\\GitHubDesktop.exe"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\wwwroot\\Images\\HP 15.6 Ryzen 5 Laptop.jpeg",
+      "PackagePath": "staticwebassets\\Images\\HP 15.6 Ryzen 5 Laptop.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\wwwroot\\Images\\Iphone.jpg",
+      "PackagePath": "staticwebassets\\Images\\Iphone.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\wwwroot\\Images\\Keyboard.jpg",
+      "PackagePath": "staticwebassets\\Images\\Keyboard.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\wwwroot\\Images\\Lenovo-Laptop.jfif",
+      "PackagePath": "staticwebassets\\Images\\Lenovo-Laptop.jfif"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\wwwroot\\Images\\Mouse.jfif",
+      "PackagePath": "staticwebassets\\Images\\Mouse.jfif"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\wwwroot\\Images\\PASS.png",
+      "PackagePath": "staticwebassets\\Images\\PASS.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\wwwroot\\Images\\Postman.exe",
+      "PackagePath": "staticwebassets\\Images\\Postman.exe"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\wwwroot\\Images\\Printer.jpg",
+      "PackagePath": "staticwebassets\\Images\\Printer.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\wwwroot\\Images\\Realme-Buds-Air-5_blue.jpg",
+      "PackagePath": "staticwebassets\\Images\\Realme-Buds-Air-5_blue.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\wwwroot\\Images\\Refrigerator.jpg",
+      "PackagePath": "staticwebassets\\Images\\Refrigerator.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\wwwroot\\Images\\Router.jpg",
+      "PackagePath": "staticwebassets\\Images\\Router.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\wwwroot\\Images\\Samsung-A55.jpg",
+      "PackagePath": "staticwebassets\\Images\\Samsung-A55.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\wwwroot\\Images\\Sony-Bravia-R350B-40-Inch-LED.jpg",
+      "PackagePath": "staticwebassets\\Images\\Sony-Bravia-R350B-40-Inch-LED.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\wwwroot\\Images\\WIN_20240218_00_48_19_Pro.jpg",
+      "PackagePath": "staticwebassets\\Images\\WIN_20240218_00_48_19_Pro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\wwwroot\\Images\\apple-watch.jpg",
+      "PackagePath": "staticwebassets\\Images\\apple-watch.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\wwwroot\\Images\\available.jpg",
+      "PackagePath": "staticwebassets\\Images\\available.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\wwwroot\\Images\\badge.png",
+      "PackagePath": "staticwebassets\\Images\\badge.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\wwwroot\\Images\\codeblocks.exe",
+      "PackagePath": "staticwebassets\\Images\\codeblocks.exe"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\wwwroot\\Images\\iPhone-16-Pro-Max.jpg",
+      "PackagePath": "staticwebassets\\Images\\iPhone-16-Pro-Max.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\wwwroot\\Images\\logo.png",
+      "PackagePath": "staticwebassets\\Images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\wwwroot\\Images\\mosiur.jpg",
+      "PackagePath": "staticwebassets\\Images\\mosiur.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\wwwroot\\Images\\no_available.jpg",
+      "PackagePath": "staticwebassets\\Images\\no_available.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\wwwroot\\Images\\noimage.jpg",
+      "PackagePath": "staticwebassets\\Images\\noimage.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\OnlineShop\\OnlineShop\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.OnlineShop.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.OnlineShop.props",
+      "PackagePath": "build\\OnlineShop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.OnlineShop.props",
+      "PackagePath": "buildMultiTargeting\\OnlineShop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.OnlineShop.props",
+      "PackagePath": "buildTransitive\\OnlineShop.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
